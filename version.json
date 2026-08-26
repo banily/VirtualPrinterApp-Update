@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.1",
-  "setupUrl": "https://github.com/banily/VirtualPrinterApp-Update/releases/download/v1.0.1/ExpensePrinter_Setup.exe",
-  "changelog": "안정성 향상 및 최신 AI 모델 탐색 로직 적용"
+  "latestVersion": "1.4",
+  "setupUrl": "[https://github.com/banily/VirtualPrinterApp-Update/releases/download/v1.4/ExpensePrinter_Setup.exe](https://github.com/banily/VirtualPrinterApp-Update/releases/download/v1.4/ExpensePrinter_Setup.exe)",
+  "changelog": "1. 예외 상황 처리용 수기 명세서 출력 기능 추가\n2. 트레이 우클릭 메뉴 최적화"
 }
