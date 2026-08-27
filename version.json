@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.5.1",
-  "setupUrl": "https://github.com/banily/VirtualPrinterApp-Update/releases/download/v1.5.1/ExpensePrinter_Setup.exe",
-  "changelog": "1. 예외 상황 처리용 수기 명세서 출력 기능 추가\n2. 트레이 우클릭 메뉴 최적화"
+  "latestVersion": "1.5.7",
+  "setupUrl": "https://github.com/banily/VirtualPrinterApp-Update/releases/download/v1.5.7/ExpensePrinter_Setup.exe",
+  "changelog": "1. 다중 수기 입력 및 실시간 미리보기 추가\n2. 중복 계좌 금액 자동 합산 기능 추가\n3. 시스템 안정성 및 통신 모듈 대폭 개선"
 }
